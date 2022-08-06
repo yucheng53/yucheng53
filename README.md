@@ -1,6 +1,7 @@
 [![Header](header.jpg "Header")](https://some-url.dev/)
 <h1>Hi there, I'm Cheng!</h1>
 <p>I'm a full-stack software developer!</p>
+https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif
 
 
 <h3 align="center">Languages and Tools:</h3>
