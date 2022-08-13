@@ -15,5 +15,5 @@
 </ul>
 
 <p><strong>CONTACT ME:</strong></p>
-<div><a href="https://www.linkedin.com/in/cheng-yu-b8ba39204/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href"mailto:yucheng618@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></div>
+<div><a href="https://www.linkedin.com/in/cheng-yu-b8ba39204/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="mailto:yucheng618@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></div>
 
